@@ -1,0 +1,35 @@
+{
+  "name": "ai-test",
+  "version": "1.0.0",
+  "description": "Testing REINFORCEjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "lsc ai-test.ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paraknight/ai-test.git"
+  },
+  "keywords": [
+    "ai",
+    "test",
+    "reinforcement",
+    "learning",
+    "Q",
+    "machine",
+    "reinforcejs",
+    "neural",
+    "network",
+    "net",
+    "deep"
+  ],
+  "author": "Yousef Amar <yousef@amar.io> (http://yousefamar.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paraknight/ai-test/issues"
+  },
+  "homepage": "https://github.com/Paraknight/ai-test#readme",
+  "dependencies": {
+    "LiveScript": "^1.3.1"
+  }
+}
